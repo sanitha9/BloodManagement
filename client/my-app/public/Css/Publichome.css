@@ -1,0 +1,50 @@
+.userhomecontainer{
+  margin-top: -500px;
+  margin-left:900px;
+    padding:10px;
+    border: 3px;
+    box-sizing: content-box;
+    border-radius: 0cap;
+    width: 300px;
+    height: 300px;
+    font-style: italic;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.events{
+  margin-top: 200px;
+  margin-left:150px;
+  font-size: larger;
+}
+.events h3 {
+  margin-left:20px;
+
+}
+ .events p {
+  margin-left: 20px;
+  color: blue;
+  font-weight:bolder;
+  font-size: xx-large;
+  font-style: italic;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+
+} 
+.cardR{
+
+  font-size:small;
+  font-style: italic;
+} */
+.cardR1{
+margin-left:-450px;
+margin-top:200px;
+}
+.cardR2{
+  margin-left:540px;
+  margin-top:-280px;
+
+}
+.cardR3{
+  margin-left:1000px;
+  margin-top:-328px;
+}

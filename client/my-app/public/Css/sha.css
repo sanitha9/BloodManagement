@@ -1,0 +1,43 @@
+.regform{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 500px;
+    background-color: yellowgreen;
+   margin-bottom: 100px;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+.reg-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.reg-head{
+    margin-bottom: 20px;
+}
+
+.reg-group{
+   
+    margin-bottom: 20px;
+}
+/* .form-control{
+    display: flex;
+    align-items: center;
+    width: 550%;
+    margin-left: -61px;
+    
+} */
+
+label{
+    font-weight: bold;
+    float: left;
+}
+input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }

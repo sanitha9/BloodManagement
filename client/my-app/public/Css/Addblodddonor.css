@@ -1,0 +1,63 @@
+.adddonor{
+    border: 2px solid;
+    border-radius: 25px;
+    border-color: brown;
+    max-width:500px;
+    height: auto;
+    padding: 30px;
+    margin: 50px 300px 300px 450px;
+}
+.blodddon{
+    margin-top: 200px;
+}
+/***********DonorInfoList.jsx style sheet**********/
+.containerdonor{
+   
+        justify-content: center;
+       margin-top:50px;
+       /* This ensures the container takes up the full viewport height */
+    
+      
+}
+.containerd{
+    padding: 20px;
+} 
+
+/*Donor activity*/
+
+.doactivity{
+  padding:50px;
+
+
+}
+.cont{
+border: 3px solid rgb(120, 6, 6);
+max-width:1000px;
+margin-left:200px;
+margin-top: -20px;
+
+border-radius:2rem;
+
+font-style: italic;
+color: black ;
+font-weight: 700;
+}
+.head{
+    margin-left: 320px;
+    margin-top: -35px;
+    text-decoration:overline;
+    text-shadow:2px 2px rgb(153, 150, 51);
+}
+.radio{
+    margin-top: -30px;
+   
+    padding:0px;
+  
+}
+.colr{
+margin-left:190px;
+}
+.colre{
+    margin-left:160px;
+    }
+    
