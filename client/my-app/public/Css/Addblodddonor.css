@@ -42,6 +42,7 @@ font-style: italic;
 color: black ;
 font-weight: 700;
 }
+
 .head{
     margin-left: 320px;
     margin-top: -35px;
@@ -60,4 +61,28 @@ margin-left:190px;
 .colre{
     margin-left:160px;
     }
-    
+    /*****Search Donor******/
+    .panel-heading {
+        padding: 10px 15px;
+        border-bottom: 1px solid transparent;
+        border-top-left-radius: 3px;
+        border-top-right-radius: 3px;
+        width:78%;
+        height: 120px;
+        background-color: rgb(193, 241, 82);
+        margin-left: 160px;
+    }
+    .boxcontainer{
+        border: 3px solid rgb(120, 6, 6);
+        max-width:1000px;
+        margin-left:400px;
+        margin-top:30px;
+        
+        border-radius:2rem;
+        
+        font-style: italic;
+        color: black ;
+        font-weight: 700;
+       
+
+    }

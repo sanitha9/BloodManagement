@@ -41,8 +41,8 @@ const AdminNav = () => {
                 List Blood Product
                 </NavDropdown.Item>
               </NavDropdown>
-              <Nav.Link href="#home">Approved Request</Nav.Link>
-              <Nav.Link href="#home">Check Blood bag Expired date</Nav.Link>
+              <Nav.Link href="approverequest">Approved Request</Nav.Link>
+              <Nav.Link href="bloodbagexpired">Check Blood bag Expired date</Nav.Link>
             
             
               <NavDropdown title="My profile" id="basic-nav-dropdown">

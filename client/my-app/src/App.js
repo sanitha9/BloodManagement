@@ -20,6 +20,9 @@ import AddBloodProduct from './Components/Admin/AddBloodProduct';
 import ListBloodProduct from './Components/Admin/ListBloodProduct';
 import EditBloodDonorInfo from './Components/Admin/EditBloodDonorInfo';
 import DeleteConfirmationbox from './Components/Admin/DeleteConfirmationbox';
+import ApprovedRequest from './Components/Admin/ApprovedRequest';
+import CheckBloodBagsExpired from './Components/Admin/CheckBloodBagsExpired';
+import SearchDonor from './Components/Admin/SearchDonor';
 
 
 
@@ -51,6 +54,9 @@ function App() {
 <Route path="/listdonoractivity" element={<ListDonorActivity/>}/> 
 <Route path="/addbloodproduct" element={<AddBloodProduct/>}/> 
 <Route path="/listbloodproduct" element={<ListBloodProduct/>}/> 
+<Route path="/approverequest" element={<ApprovedRequest/>}/> 
+<Route path="/bloodbagexpired" element={<CheckBloodBagsExpired/>}/> 
+<Route path="/searchdonor" element={<SearchDonor/>}/> 
    </Routes>
     </BrowserRouter>
     

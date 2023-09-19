@@ -6,7 +6,7 @@ const AddblooddonorModel = require('../Models/AddblooddonorModel');
 const multer = require('multer');
 const storage = multer.diskStorage({
   destination:function(req,file,cb){
-    cb(null,'')
+    cb(null,'../client/public/Upload')
 
   },
   filename:function(req,file,cb){
